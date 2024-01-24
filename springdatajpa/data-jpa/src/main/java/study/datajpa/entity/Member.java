@@ -29,8 +29,6 @@ public class Member {
         if(team != null){
             changeTeam(team);
         }
-
-
     }
 
     public void changeTeam(Team team){
